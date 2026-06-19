@@ -6,6 +6,7 @@ spin shorter social posts off each section.
 
 | # | Article | Segment | Primary keyword |
 |---|---|---|---|
+| 00 | [Homepage Copy](00-homepage.md) | All — landing page that ties the guides together | "Belgrade real estate for foreigners" |
 | 01 | [How a Foreigner Buys Property in Belgrade](01-how-a-foreigner-buys-in-belgrade.md) | Individual buyers / relocators | "buying property in Belgrade as a foreigner" |
 | 02 | [The Reciprocity Rule Explained](02-the-reciprocity-rule-explained.md) | Buyers unsure they're eligible | "can foreigners buy property in Serbia" |
 | 03 | [Investing & the 10-Year Capital Gains Exemption](03-investing-for-the-10-year-exemption.md) | Investors / buy-and-hold | "Belgrade property investment" |
