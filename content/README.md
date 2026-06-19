@@ -9,6 +9,8 @@ spin shorter social posts off each section.
 | 01 | [How a Foreigner Buys Property in Belgrade](01-how-a-foreigner-buys-in-belgrade.md) | Individual buyers / relocators | "buying property in Belgrade as a foreigner" |
 | 02 | [The Reciprocity Rule Explained](02-the-reciprocity-rule-explained.md) | Buyers unsure they're eligible | "can foreigners buy property in Serbia" |
 | 03 | [Investing & the 10-Year Capital Gains Exemption](03-investing-for-the-10-year-exemption.md) | Investors / buy-and-hold | "Belgrade property investment" |
+| 04 | [Renting Out Your Belgrade Apartment From Abroad](04-renting-out-your-belgrade-apartment-from-abroad.md) | Foreign owners abroad / rental book | "Belgrade rental management foreign owner" |
+| 05 | [Belgrade Neighborhood Guide for Foreign Buyers](05-belgrade-neighborhood-guide-for-foreign-buyers.md) | Buyers/investors choosing where to buy | "best neighborhoods Belgrade foreigners" |
 
 ## Before publishing
 - Replace **[Contact us]** placeholders with real links/CTAs.
