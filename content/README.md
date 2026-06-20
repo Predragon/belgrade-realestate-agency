@@ -12,6 +12,7 @@ spin shorter social posts off each section.
 | 03 | [Investing & the 10-Year Capital Gains Exemption](03-investing-for-the-10-year-exemption.md) | Investors / buy-and-hold | "Belgrade property investment" |
 | 04 | [Renting Out Your Belgrade Apartment From Abroad](04-renting-out-your-belgrade-apartment-from-abroad.md) | Foreign owners abroad / rental book | "Belgrade rental management foreign owner" |
 | 05 | [Belgrade Neighborhood Guide for Foreign Buyers](05-belgrade-neighborhood-guide-for-foreign-buyers.md) | Buyers/investors choosing where to buy | "best neighborhoods Belgrade foreigners" |
+| 06 | [U.S. vs. Serbia Real Estate Taxes](06-us-vs-serbia-real-estate-taxes.md) | American buyers comparing tax treatment | "US vs Serbia real estate tax" |
 
 ## Before publishing
 - Replace **[Contact us]** placeholders with real links/CTAs.
