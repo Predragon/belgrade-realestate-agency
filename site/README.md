@@ -37,3 +37,29 @@ A self-contained, responsive multi-page site. No build step or dependencies: ope
 ```bash
 cd site && python3 -m http.server 8000   # then open http://localhost:8000
 ```
+
+## Deploy to Cloudflare Pages
+
+This is a pure static site — no build step. Two ways to publish:
+
+### Option 1 — Connect the GitHub repo (recommended; auto-deploys on every push)
+1. Cloudflare dashboard → **Workers & Pages** → **Create** → **Pages** → **Connect to Git**
+2. Pick `Predragon/belgrade-realestate-agency`
+3. Build settings:
+   - **Framework preset:** None
+   - **Build command:** *(leave empty)*
+   - **Build output directory:** `site`
+   - **Root directory:** *(leave as repo root)*
+4. **Save and Deploy.** Every push to `main` then redeploys automatically.
+
+### Option 2 — Direct upload with Wrangler (one-off)
+```bash
+cd belgrade-realestate-agency
+npx wrangler pages deploy site --project-name belgrade-property
+```
+
+### After it's live
+- Add your custom domain under **Pages → Custom domains** (Cloudflare handles SSL).
+- Replace `YOUR-DOMAIN.com` in `robots.txt` and `sitemap.xml` with the real domain.
+- `_headers` (security + asset caching) and `404.html` are picked up automatically by Pages.
+

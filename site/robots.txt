@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your real domain once connected in Cloudflare Pages:
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
