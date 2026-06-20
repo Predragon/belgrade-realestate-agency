@@ -24,7 +24,7 @@ img{display:block;max-width:100%}
 .btn-ghost:hover{background:rgba(255,255,255,.12);border-color:#fff}
 
 /* NAV */
-header{position:fixed;top:0;left:0;right:0;z-index:50;transition:.3s;padding:16px 0;background:rgba(10,28,44,.96);backdrop-filter:blur(8px)}
+header{position:fixed;top:0;left:0;right:0;z-index:50;transition:.3s;padding:16px 0;background:rgba(10,28,44,.96);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);transform:translateZ(0);will-change:background-color}
 header.top{background:transparent}
 .nav{display:flex;align-items:center;justify-content:space-between}
 .logo{font-family:'Playfair Display',serif;font-size:1.35rem;font-weight:700;color:#fff}
